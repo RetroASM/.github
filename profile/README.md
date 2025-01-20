@@ -1,7 +1,7 @@
 # RetroASM
 
 This is a modern recreation of Ken Thompson's journey of creating UNIX,
-devided in three steps:
+divided in three steps:
 
 1. Creation of a text editor
 2. Creation of a programming language
@@ -13,7 +13,7 @@ Ken Thompson.
 ## The Text Editor
 
 It has to be written in assembly and it will only support x86_64 processors
-and for simplicity purposes it will support only POSIX complient operating
+and for simplicity purposes it will support only POSIX compliant operating
 systems.
 
 It should allow the user to:
@@ -28,7 +28,7 @@ It will have to be written in the text editor created above, there will probably
 be more and it will have to start with assembly and build from there on probably
 from Assembly to Forth to a C like programming language.
 
-In the end the programmin language should have:
+In the end the programming language should have:
 - Basic data types (`int`, `char`, etc.)
 - Arrays
 - Structs
